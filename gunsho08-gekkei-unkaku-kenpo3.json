@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gekkei-unkaku-kenpo3-utaawase",
  "yomi": "げっけいうんかくねたみうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十五番）",
+  "era": "建保3年（1215）6月11日",
+  "author": "未詳",
+  "desc": "当座で詠まれた月卿雲客妬歌合。野外夏草・月色似秋・契経年恋の題で、雅経・定高・範宗・忠定・範基・行能・康光らが詠み、衆議で判を定めた。"
+ },
  "editions": [
   {
    "pid": "1879502",
